@@ -1,0 +1,5 @@
+const path = require('path')
+
+console.log(path.sep)
+
+console.log(path.join(__dirname,'app.js'))
